@@ -12,3 +12,6 @@
    lkjlkjkl<br>
 
 <hr>
+
+[yahoo](www.yahoo.com.tw)
+[文件解說](www.yahoo.com.tw)
